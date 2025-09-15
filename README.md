@@ -67,7 +67,7 @@ My goal is to apply my knowledge and skills to develop innovative and efficient 
   </a> 
 	&emsp;
   <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
-    <img alt="Adobe AfterEffect" src="https://img.shields.io/badge/Adobe AfterEffect%2300f.svg?style=flat&logo=adobeaftereffect&logoColor=white"/>
+    <img alt="Adobe AfterEffects" src="https://img.shields.io/badge/Adobe AfterEffects%2300f.svg?style=flat&logo=adobeaftereffects&logoColor=white"/>
   </a>
    &emsp;
   <a href="https://www.adobe.com/in/products/premiere.html" target="_blank"> 

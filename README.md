@@ -4,7 +4,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;AI%20%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
-<h4 align="center"> I am a Bachelor’s student in Information Systems with a strong passion for technology and programming.
+<h4 align="center"> I am a student in Information Systems with a strong passion for technology and programming.
 My commitment to continuous learning and constant improvement drives me to stay up to date with the latest trends and best practices in software development. I consider myself a highly adaptable person with a strong ability to learn quickly.
 
 My goal is to apply my knowledge and skills to develop innovative and efficient solutions that create value in the projects I contribute to. I am always open to new opportunities that allow me to grow professionally and contribute to the success of the team and the organization.</h4>

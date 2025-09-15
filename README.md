@@ -9,7 +9,7 @@ My commitment to continuous learning and constant improvement drives me to stay 
 
 My goal is to apply my knowledge and skills to develop innovative and efficient solutions that create value in the projects I contribute to. I am always open to new opportunities that allow me to grow professionally and contribute to the success of the team and the organization.</h4>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=candida18&label=Profile%20views&color=0e75b6&style=plastic" alt="candida18" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=VaalentinoB&label=Profile%20views&color=0e75b6&style=plastic" alt="VaalentinoB" /> </p>
 
 ## 🛠️ My Skills
 
@@ -59,10 +59,14 @@ My goal is to apply my knowledge and skills to develop innovative and efficient 
     <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
   </a> 
   &emsp;
-  <a href="https://www.adobe.com/in/products/indesign.html" target="_blank"> 
-    <img alt="Adobe Indesign" src="https://img.shields.io/badge/Adobe Indesign-%e749a0.svg?style=flat&logo=adobeindesign&logoColor=white"/> 
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae" />
   </a> 
-    &emsp;
+ &emsp;
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ps" />
+  </a> 
+	&emsp;
   <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
     <img alt="Adobe Lightroom" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
   </a>

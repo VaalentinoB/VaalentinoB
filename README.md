@@ -53,18 +53,17 @@ My goal is to apply my knowledge and skills to develop innovative and efficient 
 ### 👉Graphic Designing
 <p align="left">
   &emsp;
-  	
-  
-   <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
+	<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
     <img alt="Adobe Illustrator" src="https://img.shields.io/badge/Adobe Illustrator-%23FF9A00.svg?style=flat&logo=adobeillustrator&logoColor=white"/>
   </a> 
   &emsp;
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ae" />
-  </a> 
+  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
+    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
+  </a>
  &emsp;
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps" />
+  <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 
+    <img alt="Adobe AfterEffect" src="https://img.shields.io/badge/Adobe Lightroom-%2300f.svg?style=flat&logo=adobelightroom&logoColor=white"/>
+  </a>
   </a> 
 	&emsp;
   <a href="https://www.adobe.com/in/products/photoshop-lightroom.html" target="_blank"> 

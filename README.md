@@ -44,20 +44,16 @@ My goal is to apply my knowledge and skills to develop innovative and efficient 
 
 
 ### 👉 Backend Development
-&emsp;
-
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs" />
+<p align="left">
+  &emsp;
+	<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
+    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/express-%23FF9A00.svg?style=flat&logo=express&logoColor=white"/>
+  </a> 
+  &emsp;
+  <a href="https://www.adobe.com/in/products/nodejs" target="_blank"> 
+    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Node Js%2300f.svg?style=flat&logo=nodejs&logoColor=white"/>
   </a>
-
-&emsp;
-<a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=express" />
-  </a>
-
-
-
-
+ 
 ### 👉 Databases & Cloud Hosting
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>

@@ -47,11 +47,11 @@ My goal is to apply my knowledge and skills to develop innovative and efficient 
 <p align="left">
   &emsp;
 	<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Adobe Illustrator" src="https://img.shields.io/badge/express-%23FF9A00.svg?style=flat&logo=express&logoColor=white"/>
+    <img alt="Express" src="https://img.shields.io/badge/express-%23FF9A00.svg?style=flat&logo=express&logoColor=white"/>
   </a> 
   &emsp;
   <a href="https://www.adobe.com/in/products/nodejs" target="_blank"> 
-    <img alt="Adobe Photoshop" src="https://img.shields.io/badge/Node Js%2300f.svg?style=flat&logo=nodejs&logoColor=white"/>
+    <img alt="Nodejs" src="https://img.shields.io/badge/Node Js%2300f.svg?style=flat&logo=nodejs&logoColor=white"/>
   </a>
  
 ### 👉 Databases & Cloud Hosting

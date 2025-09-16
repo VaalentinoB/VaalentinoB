@@ -41,14 +41,39 @@ My goal is to apply my knowledge and skills to develop innovative and efficient 
   </a>
 </p>
 
+
+
+### 👉 Backend Development
+&emsp;
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+</p>
+&emsp;
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=express" />
+  </a>
+</p>
+
+
+
 ### 👉 Databases & Cloud Hosting
   &emsp;
     <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
   &emsp;
-    <a href="https://www.mongodb.com/"><img alt="MongodB" src="https://seeklogo.com/vector-logo/273731/mongodb"></a>  
+    &emsp;
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mongodb" />
+  </a>
+</p>
   &emsp;
-    <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-%23316192.svg?logo=firebase&logoColor=white"></a>
- </p>
+    <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=firebase" />
+  </a>
   
 ### 👉Graphic Designing
 <p align="left">

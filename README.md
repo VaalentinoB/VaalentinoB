@@ -45,17 +45,16 @@ My goal is to apply my knowledge and skills to develop innovative and efficient 
 
 ### 👉 Backend Development
 &emsp;
-<p align="center">
+
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=nodejs" />
   </a>
-</p>
+
 &emsp;
-<p align="center">
-  <a href="https://skillicons.dev">
+<a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=express" />
   </a>
-</p>
+
 
 
 

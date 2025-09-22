@@ -1,7 +1,6 @@
-
 <h1 align="center">Hi , I'm Valentino Burioni <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;AI%20%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Full+Stack+Web+Developer;AI%20%20Enthusiast;Graphic+Designer;Always+learning+new+things&center=true&width=500&height=50"></a>
 </p>
 <hr/>
 <h4 align="center"> I am a student in Information Systems with a strong passion for technology and programming.
@@ -24,7 +23,12 @@ My goal is to apply my knowledge and skills to develop innovative and efficient 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
-  
+  &emsp;
+  <a href="https://www.python.org/" target="_blank"> 
+     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
+   </a>
+</p>
+
 ### 👉 Frontend Development
 <p align="left"> 
   &emsp; 
@@ -39,36 +43,41 @@ My goal is to apply my knowledge and skills to develop innovative and efficient 
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
   </a>
+  &emsp;
+  <a href="https://reactjs.org/" target="_blank"> 
+    <img alt="React" src="https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB"/>
+  </a>
+  &emsp;
+  <a href="https://angular.io/" target="_blank"> 
+    <img alt="Angular" src="https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white"/>
+  </a>
 </p>
-
-
 
 ### 👉 Backend Development
 <p align="left">
   &emsp;
-	<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"> 
-    <img alt="Express" src="https://img.shields.io/badge/express-%23FF9A00.svg?style=flat&logo=express&logoColor=white"/>
+	<a href="https://expressjs.com/" target="_blank"> 
+    <img alt="Express" src="https://img.shields.io/badge/Express-%23000000.svg?style=flat&logo=express&logoColor=white"/>
   </a> 
   &emsp;
-  <a href="https://www.adobe.com/in/products/nodejs" target="_blank"> 
-    <img alt="Nodejs" src="https://img.shields.io/badge/Node Js%2300f.svg?style=flat&logo=nodejs&logoColor=white"/>
-  </a>
- 
-### 👉 Databases & Cloud Hosting
-  &emsp;
-    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&llogo=github&logoColor=white"></a>
-  &emsp;
-    &emsp;
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb" />
+  <a href="https://nodejs.org/" target="_blank"> 
+    <img alt="Nodejs" src="https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat&logo=node.js&logoColor=white"/>
   </a>
 </p>
+
+### 👉 Databases & Cloud Hosting
+<p align="left">
   &emsp;
-    <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=firebase" />
-  </a>
+    <a href="https://www.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=flat&logo=github&logoColor=white"></a>
+  &emsp;
+    <a href="https://www.mongodb.com/" target="_blank"> 
+      <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white"/>
+    </a>
+  &emsp;
+    <a href="https://firebase.google.com/" target="_blank"> 
+      <img alt="Firebase" src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=flat&logo=firebase&logoColor=black"/>
+    </a>
+</p>
   
 ### 👉Graphic Designing
 <p align="left">
@@ -158,11 +167,3 @@ My goal is to apply my knowledge and skills to develop innovative and efficient 
 </p>
 
 <hr/>
-
-
-
-
-
-
-
-
